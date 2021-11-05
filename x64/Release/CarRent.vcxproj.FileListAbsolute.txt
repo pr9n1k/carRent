@@ -1,0 +1,8 @@
+F:\c++\CarRent\CarRent\x64\Release\CarRent.vcxproj.SuggestedBindingRedirects.cache
+F:\c++\CarRent\CarRent\x64\Release\CarRent.AdminForm.resources
+F:\c++\CarRent\CarRent\x64\Release\CarRent.EmployeeForm.resources
+F:\c++\CarRent\CarRent\x64\Release\CarRent.StartForm.resources
+F:\c++\CarRent\CarRent\x64\Release\CarRent.vcxproj.GenerateResource.cache
+F:\c++\CarRent\CarRent\x64\Release\CarRent.FormDataCar.resources
+F:\c++\CarRent\CarRent\x64\Release\CarRent.FormDataEmployee.resources
+F:\c++\CarRent\CarRent\x64\Release\CarRent.vcxproj.AssemblyReference.cache

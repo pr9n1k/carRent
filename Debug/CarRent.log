@@ -1,0 +1,9 @@
+﻿  StartForm.cpp
+F:\c++\CarRent\CarRent\File.h(114,57): warning C4677: ReadFromFile: сигнатура члена, не являющегося частным, содержит частный тип сборки "cliext::set<System::String ^>"
+F:\c++\CarRent\CarRent\File.h(114): message : см. объявление "cliext::set<System::String ^>"
+  AdminForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+StartForm.obj : error LNK2005: "void __clrcall myTrim(class System::String ^ %)" (?myTrim@@YMXA$CAP$AAVString@System@@@Z) уже определен в AdminForm.obj
+StartForm.obj : error LNK2005: "class System::String ^ __clrcall expand(class System::String ^,int)" (?expand@@YMP$AAVString@System@@P$AAV12@H@Z) уже определен в AdminForm.obj
+StartForm.obj : error LNK2005: "void __clrcall myTrim(class System::String ^ %)" (?myTrim@@$$FYMXA$CAP$AAVString@System@@@Z) уже определен в AdminForm.obj
+StartForm.obj : error LNK2005: "class System::String ^ __clrcall expand(class System::String ^,int)" (?expand@@$$FYMP$AAVString@System@@P$AAV12@H@Z) уже определен в AdminForm.obj
+F:\c++\CarRent\Debug\CarRent.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

@@ -1,0 +1,54 @@
+﻿  AdminForm.cpp
+F:\c++\CarRent\CarRent\File.h(189,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+F:\c++\CarRent\CarRent\AdminForm.h(65,12): warning C4677: AdminForm: сигнатура члена, не являющегося частным, содержит частный тип сборки "Employee"
+F:\c++\CarRent\CarRent\File.h(16): message : см. объявление "Employee"
+F:\c++\CarRent\CarRent\AdminForm.h(730,48): warning C4677: AddClient: сигнатура члена, не являющегося частным, содержит частный тип сборки "Client"
+F:\c++\CarRent\CarRent\File.h(141): message : см. объявление "Client"
+F:\c++\CarRent\CarRent\AdminForm.h(731,61): warning C4677: EditClient: сигнатура члена, не являющегося частным, содержит частный тип сборки "Client"
+F:\c++\CarRent\CarRent\File.h(141): message : см. объявление "Client"
+F:\c++\CarRent\CarRent\FormDataClient.h(25,17): warning C4677: FormDataClient: сигнатура члена, не являющегося частным, содержит частный тип сборки "Client"
+F:\c++\CarRent\CarRent\File.h(141): message : см. объявление "Client"
+F:\c++\CarRent\CarRent\FormDataClient.h(25,17): warning C4677: FormDataClient: сигнатура члена, не являющегося частным, содержит частный тип сборки "cliext::vector<Client ^>"
+F:\c++\CarRent\CarRent\File.h(393): message : см. объявление "cliext::vector<Client ^>"
+F:\c++\CarRent\CarRent\FormDataClient.h(36,17): warning C4677: FormDataClient: сигнатура члена, не являющегося частным, содержит частный тип сборки "Client"
+F:\c++\CarRent\CarRent\File.h(141): message : см. объявление "Client"
+F:\c++\CarRent\CarRent\FormDataClient.h(36,17): warning C4677: FormDataClient: сигнатура члена, не являющегося частным, содержит частный тип сборки "cliext::vector<Client ^>"
+F:\c++\CarRent\CarRent\File.h(393): message : см. объявление "cliext::vector<Client ^>"
+F:\c++\CarRent\CarRent\FormDataEmployee.h(22,19): warning C4677: FormDataEmployee: сигнатура члена, не являющегося частным, содержит частный тип сборки "cliext::vector<Employee ^>"
+F:\c++\CarRent\CarRent\File.h(378): message : см. объявление "cliext::vector<Employee ^>"
+F:\c++\CarRent\CarRent\FormDataEmployee.h(22,19): warning C4677: FormDataEmployee: сигнатура члена, не являющегося частным, содержит частный тип сборки "Employee"
+F:\c++\CarRent\CarRent\File.h(16): message : см. объявление "Employee"
+F:\c++\CarRent\CarRent\FormDataEmployee.h(32,19): warning C4677: FormDataEmployee: сигнатура члена, не являющегося частным, содержит частный тип сборки "cliext::vector<Employee ^>"
+F:\c++\CarRent\CarRent\File.h(378): message : см. объявление "cliext::vector<Employee ^>"
+F:\c++\CarRent\CarRent\FormDataEmployee.h(32,19): warning C4677: FormDataEmployee: сигнатура члена, не являющегося частным, содержит частный тип сборки "Employee"
+F:\c++\CarRent\CarRent\File.h(16): message : см. объявление "Employee"
+F:\c++\CarRent\CarRent\FormDataCar.h(21,14): warning C4677: FormDataCar: сигнатура члена, не являющегося частным, содержит частный тип сборки "cliext::vector<Car ^>"
+F:\c++\CarRent\CarRent\File.h(385): message : см. объявление "cliext::vector<Car ^>"
+F:\c++\CarRent\CarRent\FormDataCar.h(21,14): warning C4677: FormDataCar: сигнатура члена, не являющегося частным, содержит частный тип сборки "Car"
+F:\c++\CarRent\CarRent\File.h(80): message : см. объявление "Car"
+F:\c++\CarRent\CarRent\FormDataCar.h(31,14): warning C4677: FormDataCar: сигнатура члена, не являющегося частным, содержит частный тип сборки "cliext::vector<Car ^>"
+F:\c++\CarRent\CarRent\File.h(385): message : см. объявление "cliext::vector<Car ^>"
+F:\c++\CarRent\CarRent\FormDataCar.h(31,14): warning C4677: FormDataCar: сигнатура члена, не являющегося частным, содержит частный тип сборки "Car"
+F:\c++\CarRent\CarRent\File.h(80): message : см. объявление "Car"
+F:\c++\CarRent\CarRent\AdminForm.cpp(229,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+  FormDataClient.cpp
+F:\c++\CarRent\CarRent\File.h(189,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+F:\c++\CarRent\CarRent\AdminForm.h(65,12): warning C4677: AdminForm: сигнатура члена, не являющегося частным, содержит частный тип сборки "Employee"
+F:\c++\CarRent\CarRent\File.h(16): message : см. объявление "Employee"
+F:\c++\CarRent\CarRent\AdminForm.h(730,48): warning C4677: AddClient: сигнатура члена, не являющегося частным, содержит частный тип сборки "Client"
+F:\c++\CarRent\CarRent\File.h(141): message : см. объявление "Client"
+F:\c++\CarRent\CarRent\AdminForm.h(731,61): warning C4677: EditClient: сигнатура члена, не являющегося частным, содержит частный тип сборки "Client"
+F:\c++\CarRent\CarRent\File.h(141): message : см. объявление "Client"
+F:\c++\CarRent\CarRent\FormDataClient.h(25,17): warning C4677: FormDataClient: сигнатура члена, не являющегося частным, содержит частный тип сборки "Client"
+F:\c++\CarRent\CarRent\File.h(141): message : см. объявление "Client"
+F:\c++\CarRent\CarRent\FormDataClient.h(25,17): warning C4677: FormDataClient: сигнатура члена, не являющегося частным, содержит частный тип сборки "cliext::vector<Client ^>"
+F:\c++\CarRent\CarRent\File.h(393): message : см. объявление "cliext::vector<Client ^>"
+F:\c++\CarRent\CarRent\FormDataClient.h(36,17): warning C4677: FormDataClient: сигнатура члена, не являющегося частным, содержит частный тип сборки "Client"
+F:\c++\CarRent\CarRent\File.h(141): message : см. объявление "Client"
+F:\c++\CarRent\CarRent\FormDataClient.h(36,17): warning C4677: FormDataClient: сигнатура члена, не являющегося частным, содержит частный тип сборки "cliext::vector<Client ^>"
+F:\c++\CarRent\CarRent\File.h(393): message : см. объявление "cliext::vector<Client ^>"
+  Создание кода...
+F:\c++\CarRent\CarRent\File.h(196): warning C4715: data::Split: значение возвращается не при всех путях выполнения
+F:\c++\CarRent\CarRent\File.h(196): warning C4715: data::Split: значение возвращается не при всех путях выполнения
+  AdminForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CarRent.vcxproj -> F:\c++\CarRent\x64\Debug\CarRent.exe
